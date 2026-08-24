@@ -1,6 +1,6 @@
 [README.md](https://github.com/user-attachments/files/31373096/README.md)
 # 3X-UI-UPGRADE
-Advanced And The Best Panel For Create VPN.
+Advanced And The Best Panel For Create VPN.                                                                                                                                              .بهترین و پیشرفته ترین پنل برای ساخت فیلترشکن
 
 # 🚀 **3X-ui-Panel** | استقرار ابریِ ۳X-UI روی Railway با Nginx Reverse Proxy
 
